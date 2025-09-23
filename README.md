@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a student in my last year of Videogame design and deveopment, im a 3d artist and programmer. im currently learning but has already experience. looking to colaborate. 
+🎧 Hi! I’m Nuria 🧸, a passionate 3D Artist & Game Developer! 🤍 As a student currently studying game design and development, I immerse myself in the  world of programming and 3D modeling. 🫧  My goal is to grow more confident in my modeling abilities and to focus on crafting a strong portfolio. 🧋 
+
+I've participated in several game jams, which have been incredible learning experiences, and I'm proud to say that I also have a game on Steam, "Unchained." ☁ I can't wait to share more projects . 🌙 Come explore my work and let’s connect! ☕
 
 
 ## 🌐 Socials:
