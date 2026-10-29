@@ -1,28 +1,59 @@
-# 💫 About Me:
-🎧 Hi! I’m Nuria 🧸, a passionate 3D Artist & Game Developer! 🤍 As a student currently studying game design and development, I immerse myself in the  world of programming and 3D modeling. 🫧  My goal is to grow more confident in my modeling abilities and to focus on crafting a strong portfolio. 🧋 <br><br>I've participated in several game jams, which have been incredible learning experiences, and I'm proud to say that I also have a game on Steam, "Unchained." ☁ I can't wait to share more projects . 🌙 Come explore my work and let’s connect! ☕
+# Hi, I'm Nuria 🧸
 
+**Technical Artist · Real-time 3D & Simulation · Tools & Automation**
+Madrid, Spain · Graduate in Game Design & Development (URJC, 2026) · English C1
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/nurxen.bsky.social) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nurxen_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nurxen_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nuria-serrano-martín-0b78932b9) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/nurxen_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nurxen_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nurxen_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Nurxen) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nurxen.21@gmail.com) 
+I build optimized real-time 3D environments and the tools and pipelines around them. My work sits between art and engineering: modular PBR assets, Shader Graph, lighting and profiling in Unity, plus Python and C# to automate the repetitive parts of the job.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nurxen&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nurxen&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nurxen&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nurxen&theme=nord&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+[Portfolio](https://nurxen.github.io/PortfolioWebsite/) · [LinkedIn](https://www.linkedin.com/in/nuria-serrano-martin-3d/) · [ArtStation](https://www.artstation.com/nurxen1) · [itch.io](https://nuriia.itch.io/)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nurxen&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nurxen) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nurxen) 
+## 🔧 Featured work
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**3D Clinical Simulator for ECOE exam training** · *Final Degree Project*
+First-person medical simulation for professional training, built entirely in Unity 6 (URP).
+- Full 3D environment with my own assets, PBR textures and layout, on a scalable modular system
+- Optimization pipeline: texture atlasing, ORM channel packing, fewer materials and draw calls
+- Shader Graph (Fresnel highlighting, modular tinting, dynamic numbering), Baked GI + Light Probes
+- Full UI/UX, validated with Unity Profiler and a user study
+
+**UNCHAINED** · *Horror, demo on Steam*
+Environment and puzzle-prop modeling, integrated into Unity while keeping the visuals consistent and the mechanics working.
+
+**Once Button a Time** · *Puzzle, Virtual Core Game Jam (3rd place)*
+3D environment art with Unity and Blender.
+
+## ⚙️ Tools & automation
+
+I like turning manual work into automated workflows. Personal projects include:
+- **Chess coach**: imports games automatically from the Chess.com API and analyzes them, with no manual input
+- **Media tracker**: films, series and books synced from services like Letterboxd and Goodreads, shared between users
+- **Home automation**: shopping list and weekly menu generation, habit and routine trackers
+
+*Next up: Blender (Python) and Unity Editor (C#) tools for asset validation and export pipelines.*
+
+## 🏆 Recognition
+
+- 🥇 Winner, Game Scholars Game Jam
+- 🎖️ Finalist, Premio Nacional DeVuego
+- 🥉 3rd place, Virtual Core Game Jam
+
+## 🧰 Stack
+
+| Area | Tools |
+|---|---|
+| Engines | Unity 6 (URP, Shader Graph, VFX Graph, Profiler, Frame Debugger) |
+| 3D / DCC | Blender (advanced), Substance Painter, 3ds Max, SketchUp |
+| Pipeline | High/low poly, UV unwrap, baking (Normal, AO, ORM), texture atlasing, channel packing |
+| Optimization | Batching, Material Property Blocks, Light Probes, Occlusion Culling, profiling |
+| Programming | C#, Python, C++, Java, JavaScript/TypeScript, OpenGL/WebGL |
+| Workflow | Git/GitHub, Jira, Notion, Scrum/Agile |
+
+## 🌍 Background
+
+- IT Support & Helpdesk, Universidad Rey Juan Carlos (2026): incident management, tickets and documentation
+- Food & Beverage Operations, The Walt Disney Company, Florida, USA (2025): international, high-volume team
+- Erasmus, Haaga-Helia University of Applied Sciences, Helsinki (2025)
+
+📫 Open to Technical Artist, real-time 3D / simulation and engineering-tools roles.
