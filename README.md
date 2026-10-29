@@ -52,4 +52,5 @@ I like turning manual work into automated workflows. Personal projects include:
 - IT Support & Helpdesk, Universidad Rey Juan Carlos (2026): incident management, tickets and documentation
 - Food & Beverage Operations, The Walt Disney Company, Florida, USA (2025): international, high-volume team
 - Erasmus, Haaga-Helia University of Applied Sciences, Helsinki (2025)
+  
 📫 Open to Technical Artist, real-time 3D / simulation and engineering-tools roles.
